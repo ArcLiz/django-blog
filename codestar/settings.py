@@ -33,7 +33,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '8000-arcliz-djangoblog-t38wva29488.ws-eu104.gitpod.io',
-    'the-walkthrough-blog.herokuapp.com',
+    'the-walkthrough-blog-fd156fc4167c.herokuapp.com',
 ]
 
 
